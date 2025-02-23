@@ -31,6 +31,10 @@
             alt="Telegram Badge"
         />
     </a>
+    <img
+        src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWolfySoCute&labelColor=%231d2d44&countColor=%23588157"
+        alt="GitHub Visitors Badge"
+    />
 </p>
 
 
